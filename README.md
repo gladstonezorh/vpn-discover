@@ -88,5 +88,6 @@ Once you have logged in, connect to a VPN in another country. Choose the country
 </p>
 <p>
 After reviewing the IP address and region for the VPN connection, try to browse a website and observe the location and differences of the site based on the VPN server connection (ie. language, URL, and website content). In this tutorial, we can review that the region in located in the Netherlands. After completing the lab, make sure that you delete your resource group in Azure!
+Done
 </p>
 <br />
